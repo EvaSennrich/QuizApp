@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "What is the Process Called that Makes a Witcher?",
+      "answers": ["Trial of the Wolf", "Trial of the Woods", "Trial of the Grasses", "Trial of the Witcher"],
+      "correct": "Trial of the Grasses"
+    },
+    {
+      "question": "Which of These Sorceresses Can Transform Into an Owl?",
+      "answers": ["Ida Emean aep Sivney", "Triss Merigold", "Yennefer of Vengerberg", "Philippa Eilhart"],
+      "correct": "Philippa Eilhart"
+    },
+    {
+      "question": "Who is Yennefer?",
+      "answers": ["A Witcher", "A Sorceress", "A Princess", "An Elf"],
+      "correct": "A Sorceress"
+    },
+    {
+      "question": "What is the Name of Geralt's Horse?",
+      "answers": ["Kelpie", "Leshen", "Roach", "Aerondight"],
+      "correct": "Roach"
+    }
+  ]
+}
